@@ -1,0 +1,1 @@
+# Final11 Backend\n\nInstructions: set BOT_TOKEN and BACKEND_PUBLIC_URL (or rely on Render's RENDER_EXTERNAL_URL).\n
